@@ -1,7 +1,7 @@
 ---
-name: Predbat
+name: Predbat Rich
 version: 1.7.1
-slug: predbat
+slug: predbat_rich
 description: Home Battery Prediction and Control
 url: https://github.com/springfall2008/predbat_addon
 codenotary: tdlj@tdlj.net
